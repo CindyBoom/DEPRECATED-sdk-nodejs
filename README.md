@@ -122,7 +122,7 @@ mp.searchPayment (filters)
         function error (err) {
             console.log (err);
         }
-    });
+    );
 ```
 
 #### Get payment data
@@ -136,7 +136,7 @@ mp.getPayment (qs["id"])
         function error (err) {
             console.log (err);
         }
-    });
+    );
 ```
 
 #### Cancel (only for pending payments)
