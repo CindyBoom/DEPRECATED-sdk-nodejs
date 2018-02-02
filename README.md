@@ -1,3 +1,6 @@
+
+![deprecated](https://i.imgur.com/SBqPxPr.png)
+
 # MercadoPago SDK module for Payments integration
 
 * [Install](#install)
