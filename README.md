@@ -3,10 +3,18 @@
 
 # MercadoPago SDK module for Payments integration
 
+* [Deprecation Notes](#deprecation)
 * [Install](#install)
 * [Basic checkout](#basic-checkout)
 * [Customized checkout](#custom-checkout)
 * [Generic methods](#generic-methods)
+
+
+## Deprecation Notes:
+
+- We are going to deprecate this version after june, 2018
+- We recommend use https://github.com/mercadopago/dx-nodejs
+- The new sdk is compatible with the legacy methods, so you dont have to change anything.
 
 <a name="install"></a>
 ## Install
