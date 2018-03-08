@@ -121,7 +121,6 @@ mp.updatePreference ("PREFERENCE_ID", preference);
 ```javascript
 var filters = {
         "id": null,
-        "site_id": null,
         "external_reference": null
     };
 
