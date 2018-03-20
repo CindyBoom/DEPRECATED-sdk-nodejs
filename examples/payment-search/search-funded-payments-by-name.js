@@ -6,7 +6,7 @@ exports.run = function (req, res) {
 
     var filters = {
             "installments": "12",
-            "reason": "product_name",
+            "description": "product_name",
             "operation_type": "regular_payment"
         };
 

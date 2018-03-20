@@ -5,7 +5,6 @@ exports.run = function (req, res) {
     var mp = new MP (config.client_id, config.client_secret);
 
     var filters = {
-            "site_id": "MLA", // Argentina: MLA; Brasil: MLB
             "external_reference": "BILL_001"
         };
 
